@@ -1,0 +1,71 @@
+<h2>Kategóriák listája</h2>
+<!--
+    string interpoláció: értékeljük ki a kifejezés értékét, és azt szövegessé konvertálva szűrjuk be a kifejezés helyére
+    !! az ilyen kifejezéseket dupla kapcsos zárójel közé kell tenni
+-->
+<p>
+    Kategóriák száma: {{records.length}}
+</p>
+<!--
+    vezérlési szerkezetek: a sablonban *ngif és *ngfor segítségével írhatunk le olyan logikákat, amelyek a megjelenítésre
+    vonatkoznak
+    ------ az ngif és ngfor mint egy speciális attribútum viselkedik
+    ------ újabb verziókban ezek már egyszerűbb szintaxissal használhatóak
+
+    ngif: egyágú elágazás
+    ngIf - else: kétágú elágazás
+        1) az else ághoz tartozó részben felveszek egy template változót (# + név), amely változóra a későibbekben
+           tudok hivatkozni a nézetből
+        2) az ngIf feltétele után egy ; írva felveszem az else ágat és megnézem, hogy az else ágban erre a változóra
+           kell ugrani (az else ágas ugrás csak ng-container wrapperre lehet (ha nem ugrunk rá, akkor nem látszik))
+-->
+
+<!--
+    ngFor: összetett adatszerkezetek feldolgozása *ngFor="let item of array" -> az a tag, amire hívom az
+    ngFor-t annyiszor kerül rendelésre...
+ -->
+
+<p *ngif="records.length == 0; else showRecords">
+    Sajnos, nincs egyetlen kategória sem rögzítve!
+</p>
+<ng-container #showRecords> <!-- a konténerhez hozzárendelem a showRecords sablon változót -->
+    <table border="1" #showRecords>
+        <thead>
+            <tr>
+                <th>Kategória megnézése</th>
+                <th>Műveletek</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- pontosan annyi sort szeretnék, mint ahány rekodom van -->
+             <tr *ngFor="let record of records">
+                <!-- a belső elemek között elérhető lesz az aktuális rekord a segédváltozókon keresztül -->
+                <td>{{record.name}}</td>
+                <td>{{record.url}}</td>
+             </tr>
+        </tbody>
+    </table>
+    <!-- eseménykezelés: a dom-ban bekövetkező eseményhez hozzárendelünk egy metódust az osztályból -->
+     <!--
+        az esemény nevét () zárójelbe kell tenni, a hozzárendelt érték pedig a metódushívás, amelyet futtatni kell az esemény??
+          angularban nincs előtag
+     -->
+     <button (click)="deleteAll()">Összes törlése</button>
+</ng-container>
+
+<!-- új szintaxis: használom a @if és @else direktívát -->
+@if(records.length == 0) {
+    <p>Sajnos, nincs egyetlen kategória sem rögzítve!</p>
+}
+@else{
+    <table border="1">
+        dd
+    </table>
+}
+
+<p>{{categoryService1.log()}}</p>
+
+<h2>Aszinkron adatfolyam kezelése</h2>
+<ul>
+  <li *ngFor="let item of records2$ | async"></li>
+</ul>

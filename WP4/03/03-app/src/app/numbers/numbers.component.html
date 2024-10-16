@@ -1,0 +1,4 @@
+<p>Páros számok</p>
+<div *ngFor="let item of numbers$ | async">
+  <span *ngIf="item % 2 == 0">{{item}}</span>
+</div>
