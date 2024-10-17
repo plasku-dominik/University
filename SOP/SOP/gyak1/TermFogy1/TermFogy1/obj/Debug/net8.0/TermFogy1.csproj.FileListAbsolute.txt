@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\TermFogy1\TermFogy1\bin\Debug\net8.0\TermFogy1.exe
+C:\Users\Student\source\repos\TermFogy1\TermFogy1\bin\Debug\net8.0\TermFogy1.deps.json
+C:\Users\Student\source\repos\TermFogy1\TermFogy1\bin\Debug\net8.0\TermFogy1.runtimeconfig.json
+C:\Users\Student\source\repos\TermFogy1\TermFogy1\bin\Debug\net8.0\TermFogy1.dll
+C:\Users\Student\source\repos\TermFogy1\TermFogy1\bin\Debug\net8.0\TermFogy1.pdb
+C:\Users\Student\source\repos\TermFogy1\TermFogy1\obj\Debug\net8.0\TermFogy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\TermFogy1\TermFogy1\obj\Debug\net8.0\TermFogy1.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\TermFogy1\TermFogy1\obj\Debug\net8.0\TermFogy1.AssemblyInfo.cs
+C:\Users\Student\source\repos\TermFogy1\TermFogy1\obj\Debug\net8.0\TermFogy1.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\TermFogy1\TermFogy1\obj\Debug\net8.0\TermFogy1.dll
+C:\Users\Student\source\repos\TermFogy1\TermFogy1\obj\Debug\net8.0\refint\TermFogy1.dll
+C:\Users\Student\source\repos\TermFogy1\TermFogy1\obj\Debug\net8.0\TermFogy1.pdb
+C:\Users\Student\source\repos\TermFogy1\TermFogy1\obj\Debug\net8.0\TermFogy1.genruntimeconfig.cache
+C:\Users\Student\source\repos\TermFogy1\TermFogy1\obj\Debug\net8.0\ref\TermFogy1.dll

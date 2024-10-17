@@ -1,0 +1,14 @@
+C:\xampp\KSanyi\TermeloFogyasztoPrimes\TermeloFogyasztoPrimes\bin\Debug\net8.0\TermeloFogyasztoPrimes.exe
+C:\xampp\KSanyi\TermeloFogyasztoPrimes\TermeloFogyasztoPrimes\bin\Debug\net8.0\TermeloFogyasztoPrimes.deps.json
+C:\xampp\KSanyi\TermeloFogyasztoPrimes\TermeloFogyasztoPrimes\bin\Debug\net8.0\TermeloFogyasztoPrimes.runtimeconfig.json
+C:\xampp\KSanyi\TermeloFogyasztoPrimes\TermeloFogyasztoPrimes\bin\Debug\net8.0\TermeloFogyasztoPrimes.dll
+C:\xampp\KSanyi\TermeloFogyasztoPrimes\TermeloFogyasztoPrimes\bin\Debug\net8.0\TermeloFogyasztoPrimes.pdb
+C:\xampp\KSanyi\TermeloFogyasztoPrimes\TermeloFogyasztoPrimes\obj\Debug\net8.0\TermeloFogyasztoPrimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\KSanyi\TermeloFogyasztoPrimes\TermeloFogyasztoPrimes\obj\Debug\net8.0\TermeloFogyasztoPrimes.AssemblyInfoInputs.cache
+C:\xampp\KSanyi\TermeloFogyasztoPrimes\TermeloFogyasztoPrimes\obj\Debug\net8.0\TermeloFogyasztoPrimes.AssemblyInfo.cs
+C:\xampp\KSanyi\TermeloFogyasztoPrimes\TermeloFogyasztoPrimes\obj\Debug\net8.0\TermeloFogyasztoPrimes.csproj.CoreCompileInputs.cache
+C:\xampp\KSanyi\TermeloFogyasztoPrimes\TermeloFogyasztoPrimes\obj\Debug\net8.0\TermeloFogyasztoPrimes.dll
+C:\xampp\KSanyi\TermeloFogyasztoPrimes\TermeloFogyasztoPrimes\obj\Debug\net8.0\refint\TermeloFogyasztoPrimes.dll
+C:\xampp\KSanyi\TermeloFogyasztoPrimes\TermeloFogyasztoPrimes\obj\Debug\net8.0\TermeloFogyasztoPrimes.pdb
+C:\xampp\KSanyi\TermeloFogyasztoPrimes\TermeloFogyasztoPrimes\obj\Debug\net8.0\TermeloFogyasztoPrimes.genruntimeconfig.cache
+C:\xampp\KSanyi\TermeloFogyasztoPrimes\TermeloFogyasztoPrimes\obj\Debug\net8.0\ref\TermeloFogyasztoPrimes.dll

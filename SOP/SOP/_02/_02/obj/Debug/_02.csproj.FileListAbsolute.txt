@@ -1,0 +1,14 @@
+C:\Users\dmnk8\source\repos\_02\_02\bin\Debug\_02.exe.config
+C:\Users\dmnk8\source\repos\_02\_02\bin\Debug\_02.exe
+C:\Users\dmnk8\source\repos\_02\_02\bin\Debug\_02.pdb
+C:\Users\dmnk8\source\repos\_02\_02\obj\Debug\_02.csproj.AssemblyReference.cache
+C:\Users\dmnk8\source\repos\_02\_02\obj\Debug\_02.csproj.CoreCompileInputs.cache
+C:\Users\dmnk8\source\repos\_02\_02\obj\Debug\_02.exe
+C:\Users\dmnk8\source\repos\_02\_02\obj\Debug\_02.pdb
+C:\Apps\University\SZOP\_02\_02\bin\Debug\_02.exe.config
+C:\Apps\University\SZOP\_02\_02\bin\Debug\_02.exe
+C:\Apps\University\SZOP\_02\_02\bin\Debug\_02.pdb
+C:\Apps\University\SZOP\_02\_02\obj\Debug\_02.csproj.AssemblyReference.cache
+C:\Apps\University\SZOP\_02\_02\obj\Debug\_02.csproj.CoreCompileInputs.cache
+C:\Apps\University\SZOP\_02\_02\obj\Debug\_02.exe
+C:\Apps\University\SZOP\_02\_02\obj\Debug\_02.pdb

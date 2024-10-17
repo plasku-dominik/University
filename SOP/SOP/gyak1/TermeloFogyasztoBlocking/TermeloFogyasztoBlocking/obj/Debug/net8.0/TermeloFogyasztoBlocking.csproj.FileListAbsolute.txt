@@ -1,0 +1,14 @@
+C:\xampp\KSanyi\TermeloFogyasztoBlocking\TermeloFogyasztoBlocking\obj\Debug\net8.0\TermeloFogyasztoBlocking.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\KSanyi\TermeloFogyasztoBlocking\TermeloFogyasztoBlocking\obj\Debug\net8.0\TermeloFogyasztoBlocking.AssemblyInfoInputs.cache
+C:\xampp\KSanyi\TermeloFogyasztoBlocking\TermeloFogyasztoBlocking\obj\Debug\net8.0\TermeloFogyasztoBlocking.AssemblyInfo.cs
+C:\xampp\KSanyi\TermeloFogyasztoBlocking\TermeloFogyasztoBlocking\obj\Debug\net8.0\TermeloFogyasztoBlocking.csproj.CoreCompileInputs.cache
+C:\xampp\KSanyi\TermeloFogyasztoBlocking\TermeloFogyasztoBlocking\bin\Debug\net8.0\TermeloFogyasztoBlocking.exe
+C:\xampp\KSanyi\TermeloFogyasztoBlocking\TermeloFogyasztoBlocking\bin\Debug\net8.0\TermeloFogyasztoBlocking.deps.json
+C:\xampp\KSanyi\TermeloFogyasztoBlocking\TermeloFogyasztoBlocking\bin\Debug\net8.0\TermeloFogyasztoBlocking.runtimeconfig.json
+C:\xampp\KSanyi\TermeloFogyasztoBlocking\TermeloFogyasztoBlocking\bin\Debug\net8.0\TermeloFogyasztoBlocking.dll
+C:\xampp\KSanyi\TermeloFogyasztoBlocking\TermeloFogyasztoBlocking\bin\Debug\net8.0\TermeloFogyasztoBlocking.pdb
+C:\xampp\KSanyi\TermeloFogyasztoBlocking\TermeloFogyasztoBlocking\obj\Debug\net8.0\TermeloFogyasztoBlocking.dll
+C:\xampp\KSanyi\TermeloFogyasztoBlocking\TermeloFogyasztoBlocking\obj\Debug\net8.0\refint\TermeloFogyasztoBlocking.dll
+C:\xampp\KSanyi\TermeloFogyasztoBlocking\TermeloFogyasztoBlocking\obj\Debug\net8.0\TermeloFogyasztoBlocking.pdb
+C:\xampp\KSanyi\TermeloFogyasztoBlocking\TermeloFogyasztoBlocking\obj\Debug\net8.0\TermeloFogyasztoBlocking.genruntimeconfig.cache
+C:\xampp\KSanyi\TermeloFogyasztoBlocking\TermeloFogyasztoBlocking\obj\Debug\net8.0\ref\TermeloFogyasztoBlocking.dll

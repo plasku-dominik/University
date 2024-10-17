@@ -1,0 +1,14 @@
+C:\xampp\KSanyi\HozzaadToro88\HozzaadToro88\bin\Debug\net8.0\HozzaadToro88.exe
+C:\xampp\KSanyi\HozzaadToro88\HozzaadToro88\bin\Debug\net8.0\HozzaadToro88.deps.json
+C:\xampp\KSanyi\HozzaadToro88\HozzaadToro88\bin\Debug\net8.0\HozzaadToro88.runtimeconfig.json
+C:\xampp\KSanyi\HozzaadToro88\HozzaadToro88\bin\Debug\net8.0\HozzaadToro88.dll
+C:\xampp\KSanyi\HozzaadToro88\HozzaadToro88\bin\Debug\net8.0\HozzaadToro88.pdb
+C:\xampp\KSanyi\HozzaadToro88\HozzaadToro88\obj\Debug\net8.0\HozzaadToro88.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\KSanyi\HozzaadToro88\HozzaadToro88\obj\Debug\net8.0\HozzaadToro88.AssemblyInfoInputs.cache
+C:\xampp\KSanyi\HozzaadToro88\HozzaadToro88\obj\Debug\net8.0\HozzaadToro88.AssemblyInfo.cs
+C:\xampp\KSanyi\HozzaadToro88\HozzaadToro88\obj\Debug\net8.0\HozzaadToro88.csproj.CoreCompileInputs.cache
+C:\xampp\KSanyi\HozzaadToro88\HozzaadToro88\obj\Debug\net8.0\HozzaadToro88.dll
+C:\xampp\KSanyi\HozzaadToro88\HozzaadToro88\obj\Debug\net8.0\refint\HozzaadToro88.dll
+C:\xampp\KSanyi\HozzaadToro88\HozzaadToro88\obj\Debug\net8.0\HozzaadToro88.pdb
+C:\xampp\KSanyi\HozzaadToro88\HozzaadToro88\obj\Debug\net8.0\HozzaadToro88.genruntimeconfig.cache
+C:\xampp\KSanyi\HozzaadToro88\HozzaadToro88\obj\Debug\net8.0\ref\HozzaadToro88.dll

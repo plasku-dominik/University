@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Apps\\University\\SZOP\\_06_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{312016CA-292D-47A4-A54E-50E2A1339158}|_06_2\\_06_2.csproj|c:\\apps\\university\\szop\\_06_2\\_06_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{312016CA-292D-47A4-A54E-50E2A1339158}|_06_2\\_06_2.csproj|solutionrelative:_06_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Apps\\University\\SZOP\\_06_2\\_06_2\\Program.cs",
+              "RelativeDocumentMoniker": "_06_2\\Program.cs",
+              "ToolTip": "C:\\Apps\\University\\SZOP\\_06_2\\_06_2\\Program.cs",
+              "RelativeToolTip": "_06_2\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:38:20.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

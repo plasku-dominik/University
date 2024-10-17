@@ -1,0 +1,14 @@
+C:\xampp\KSanyi\OddEven\OddEven\bin\Debug\net8.0\OddEven.exe
+C:\xampp\KSanyi\OddEven\OddEven\bin\Debug\net8.0\OddEven.deps.json
+C:\xampp\KSanyi\OddEven\OddEven\bin\Debug\net8.0\OddEven.runtimeconfig.json
+C:\xampp\KSanyi\OddEven\OddEven\bin\Debug\net8.0\OddEven.dll
+C:\xampp\KSanyi\OddEven\OddEven\bin\Debug\net8.0\OddEven.pdb
+C:\xampp\KSanyi\OddEven\OddEven\obj\Debug\net8.0\OddEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\KSanyi\OddEven\OddEven\obj\Debug\net8.0\OddEven.AssemblyInfoInputs.cache
+C:\xampp\KSanyi\OddEven\OddEven\obj\Debug\net8.0\OddEven.AssemblyInfo.cs
+C:\xampp\KSanyi\OddEven\OddEven\obj\Debug\net8.0\OddEven.csproj.CoreCompileInputs.cache
+C:\xampp\KSanyi\OddEven\OddEven\obj\Debug\net8.0\OddEven.dll
+C:\xampp\KSanyi\OddEven\OddEven\obj\Debug\net8.0\refint\OddEven.dll
+C:\xampp\KSanyi\OddEven\OddEven\obj\Debug\net8.0\OddEven.pdb
+C:\xampp\KSanyi\OddEven\OddEven\obj\Debug\net8.0\OddEven.genruntimeconfig.cache
+C:\xampp\KSanyi\OddEven\OddEven\obj\Debug\net8.0\ref\OddEven.dll

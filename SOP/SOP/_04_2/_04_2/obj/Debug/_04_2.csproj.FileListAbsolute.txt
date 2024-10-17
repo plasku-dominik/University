@@ -1,0 +1,7 @@
+C:\Apps\University\SZOP\_04_2\_04_2\bin\Debug\_04_2.exe.config
+C:\Apps\University\SZOP\_04_2\_04_2\bin\Debug\_04_2.exe
+C:\Apps\University\SZOP\_04_2\_04_2\bin\Debug\_04_2.pdb
+C:\Apps\University\SZOP\_04_2\_04_2\obj\Debug\_04_2.csproj.AssemblyReference.cache
+C:\Apps\University\SZOP\_04_2\_04_2\obj\Debug\_04_2.csproj.CoreCompileInputs.cache
+C:\Apps\University\SZOP\_04_2\_04_2\obj\Debug\_04_2.exe
+C:\Apps\University\SZOP\_04_2\_04_2\obj\Debug\_04_2.pdb

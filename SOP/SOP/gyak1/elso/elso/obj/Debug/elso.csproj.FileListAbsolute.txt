@@ -1,0 +1,7 @@
+C:\xampp\KSanyi\elso\elso\bin\Debug\elso.exe.config
+C:\xampp\KSanyi\elso\elso\bin\Debug\elso.exe
+C:\xampp\KSanyi\elso\elso\bin\Debug\elso.pdb
+C:\xampp\KSanyi\elso\elso\obj\Debug\elso.csproj.AssemblyReference.cache
+C:\xampp\KSanyi\elso\elso\obj\Debug\elso.csproj.CoreCompileInputs.cache
+C:\xampp\KSanyi\elso\elso\obj\Debug\elso.exe
+C:\xampp\KSanyi\elso\elso\obj\Debug\elso.pdb

@@ -1,0 +1,14 @@
+C:\xampp\KSanyi\MaxMin\MaxMin\bin\Debug\net8.0\MaxMin.exe
+C:\xampp\KSanyi\MaxMin\MaxMin\bin\Debug\net8.0\MaxMin.deps.json
+C:\xampp\KSanyi\MaxMin\MaxMin\bin\Debug\net8.0\MaxMin.runtimeconfig.json
+C:\xampp\KSanyi\MaxMin\MaxMin\bin\Debug\net8.0\MaxMin.dll
+C:\xampp\KSanyi\MaxMin\MaxMin\bin\Debug\net8.0\MaxMin.pdb
+C:\xampp\KSanyi\MaxMin\MaxMin\obj\Debug\net8.0\MaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\KSanyi\MaxMin\MaxMin\obj\Debug\net8.0\MaxMin.AssemblyInfoInputs.cache
+C:\xampp\KSanyi\MaxMin\MaxMin\obj\Debug\net8.0\MaxMin.AssemblyInfo.cs
+C:\xampp\KSanyi\MaxMin\MaxMin\obj\Debug\net8.0\MaxMin.csproj.CoreCompileInputs.cache
+C:\xampp\KSanyi\MaxMin\MaxMin\obj\Debug\net8.0\MaxMin.dll
+C:\xampp\KSanyi\MaxMin\MaxMin\obj\Debug\net8.0\refint\MaxMin.dll
+C:\xampp\KSanyi\MaxMin\MaxMin\obj\Debug\net8.0\MaxMin.pdb
+C:\xampp\KSanyi\MaxMin\MaxMin\obj\Debug\net8.0\MaxMin.genruntimeconfig.cache
+C:\xampp\KSanyi\MaxMin\MaxMin\obj\Debug\net8.0\ref\MaxMin.dll

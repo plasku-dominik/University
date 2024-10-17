@@ -1,0 +1,7 @@
+C:\Apps\University\SZOP\_03\_03\bin\Debug\_03.exe.config
+C:\Apps\University\SZOP\_03\_03\bin\Debug\_03.exe
+C:\Apps\University\SZOP\_03\_03\bin\Debug\_03.pdb
+C:\Apps\University\SZOP\_03\_03\obj\Debug\_03.csproj.AssemblyReference.cache
+C:\Apps\University\SZOP\_03\_03\obj\Debug\_03.csproj.CoreCompileInputs.cache
+C:\Apps\University\SZOP\_03\_03\obj\Debug\_03.exe
+C:\Apps\University\SZOP\_03\_03\obj\Debug\_03.pdb

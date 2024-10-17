@@ -1,0 +1,12 @@
+_02 labda
+_03 min,max
+_03_2 matrix
+_04 8,8 egesz szamok generalasa a tombbe
+_04_2 Termelo-Fogyaszto 1
+_04_3 Termelo-Fogy. 2 lealltak?
+_05 Termel,Fogyaszt prim számok, buffer
+_05_2 OsszegSzal eleje, vege
+_06 labda taskkal
+_06_2 osszegek, parallel.for
+_06_3 2. feladat, szerver
+_06_3_2 kliens

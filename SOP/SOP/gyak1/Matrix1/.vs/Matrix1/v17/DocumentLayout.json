@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\KSanyi\\Matrix1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D242E14F-93C7-4EF4-8C4E-8A546C9891B1}|Matrix1\\Matrix1.csproj|c:\\xampp\\ksanyi\\matrix1\\matrix1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D242E14F-93C7-4EF4-8C4E-8A546C9891B1}|Matrix1\\Matrix1.csproj|solutionrelative:matrix1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\KSanyi\\Matrix1\\Matrix1\\Program.cs",
+              "RelativeDocumentMoniker": "Matrix1\\Program.cs",
+              "ToolTip": "C:\\xampp\\KSanyi\\Matrix1\\Matrix1\\Program.cs",
+              "RelativeToolTip": "Matrix1\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwCEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:18:31.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

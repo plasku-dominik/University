@@ -1,0 +1,14 @@
+C:\xampp\KSanyi\Osszegek\Osszegek\bin\Debug\net8.0\Osszegek.exe
+C:\xampp\KSanyi\Osszegek\Osszegek\bin\Debug\net8.0\Osszegek.deps.json
+C:\xampp\KSanyi\Osszegek\Osszegek\bin\Debug\net8.0\Osszegek.runtimeconfig.json
+C:\xampp\KSanyi\Osszegek\Osszegek\bin\Debug\net8.0\Osszegek.dll
+C:\xampp\KSanyi\Osszegek\Osszegek\bin\Debug\net8.0\Osszegek.pdb
+C:\xampp\KSanyi\Osszegek\Osszegek\obj\Debug\net8.0\Osszegek.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\KSanyi\Osszegek\Osszegek\obj\Debug\net8.0\Osszegek.AssemblyInfoInputs.cache
+C:\xampp\KSanyi\Osszegek\Osszegek\obj\Debug\net8.0\Osszegek.AssemblyInfo.cs
+C:\xampp\KSanyi\Osszegek\Osszegek\obj\Debug\net8.0\Osszegek.csproj.CoreCompileInputs.cache
+C:\xampp\KSanyi\Osszegek\Osszegek\obj\Debug\net8.0\Osszegek.dll
+C:\xampp\KSanyi\Osszegek\Osszegek\obj\Debug\net8.0\refint\Osszegek.dll
+C:\xampp\KSanyi\Osszegek\Osszegek\obj\Debug\net8.0\Osszegek.pdb
+C:\xampp\KSanyi\Osszegek\Osszegek\obj\Debug\net8.0\Osszegek.genruntimeconfig.cache
+C:\xampp\KSanyi\Osszegek\Osszegek\obj\Debug\net8.0\ref\Osszegek.dll
