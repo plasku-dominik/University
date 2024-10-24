@@ -1,0 +1,14 @@
+C:\xampp\KSanyi\MatekSzerver_2_feladat_1Kliens\MatekSzerver_2_feladat_1Kliens\bin\Debug\net8.0\MatekSzerver_2_feladat_1Kliens.exe
+C:\xampp\KSanyi\MatekSzerver_2_feladat_1Kliens\MatekSzerver_2_feladat_1Kliens\bin\Debug\net8.0\MatekSzerver_2_feladat_1Kliens.deps.json
+C:\xampp\KSanyi\MatekSzerver_2_feladat_1Kliens\MatekSzerver_2_feladat_1Kliens\bin\Debug\net8.0\MatekSzerver_2_feladat_1Kliens.runtimeconfig.json
+C:\xampp\KSanyi\MatekSzerver_2_feladat_1Kliens\MatekSzerver_2_feladat_1Kliens\bin\Debug\net8.0\MatekSzerver_2_feladat_1Kliens.dll
+C:\xampp\KSanyi\MatekSzerver_2_feladat_1Kliens\MatekSzerver_2_feladat_1Kliens\bin\Debug\net8.0\MatekSzerver_2_feladat_1Kliens.pdb
+C:\xampp\KSanyi\MatekSzerver_2_feladat_1Kliens\MatekSzerver_2_feladat_1Kliens\obj\Debug\net8.0\MatekSzerver_2_feladat_1Kliens.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\KSanyi\MatekSzerver_2_feladat_1Kliens\MatekSzerver_2_feladat_1Kliens\obj\Debug\net8.0\MatekSzerver_2_feladat_1Kliens.AssemblyInfoInputs.cache
+C:\xampp\KSanyi\MatekSzerver_2_feladat_1Kliens\MatekSzerver_2_feladat_1Kliens\obj\Debug\net8.0\MatekSzerver_2_feladat_1Kliens.AssemblyInfo.cs
+C:\xampp\KSanyi\MatekSzerver_2_feladat_1Kliens\MatekSzerver_2_feladat_1Kliens\obj\Debug\net8.0\MatekSzerver_2_feladat_1Kliens.csproj.CoreCompileInputs.cache
+C:\xampp\KSanyi\MatekSzerver_2_feladat_1Kliens\MatekSzerver_2_feladat_1Kliens\obj\Debug\net8.0\MatekSzerver_2_feladat_1Kliens.dll
+C:\xampp\KSanyi\MatekSzerver_2_feladat_1Kliens\MatekSzerver_2_feladat_1Kliens\obj\Debug\net8.0\refint\MatekSzerver_2_feladat_1Kliens.dll
+C:\xampp\KSanyi\MatekSzerver_2_feladat_1Kliens\MatekSzerver_2_feladat_1Kliens\obj\Debug\net8.0\MatekSzerver_2_feladat_1Kliens.pdb
+C:\xampp\KSanyi\MatekSzerver_2_feladat_1Kliens\MatekSzerver_2_feladat_1Kliens\obj\Debug\net8.0\MatekSzerver_2_feladat_1Kliens.genruntimeconfig.cache
+C:\xampp\KSanyi\MatekSzerver_2_feladat_1Kliens\MatekSzerver_2_feladat_1Kliens\obj\Debug\net8.0\ref\MatekSzerver_2_feladat_1Kliens.dll

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Osszegek
-build_property.ProjectDir = C:\Apps\University\SZOP\gyak1\Osszegek\Osszegek\
+build_property.ProjectDir = C:\xampp\KSanyi\Osszegek\Osszegek\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

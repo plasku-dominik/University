@@ -53,7 +53,7 @@ namespace labdak
                     Console.SetCursorPosition(currposX, currposY);
                     Console.Write(' ');
               }
-                if (currposX < 80 && currposX > 0 && currposY < 25 && currposY > 0)
+                if (currposX < 80 && currposX >0 && currposY < 25 && currposY > 0)
                 {
                     currposX += intx; currposY += inty;
                 }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MatekSzerver_2_feladat_1Kliens_KliensREsz/1.0.0": {
+        "runtime": {
+          "MatekSzerver_2_feladat_1Kliens_KliensREsz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MatekSzerver_2_feladat_1Kliens_KliensREsz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

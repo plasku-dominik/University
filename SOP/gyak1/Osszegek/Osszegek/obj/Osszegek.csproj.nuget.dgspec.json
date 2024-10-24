@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Apps\\University\\SZOP\\gyak1\\Osszegek\\Osszegek\\Osszegek.csproj": {}
+    "C:\\xampp\\KSanyi\\Osszegek\\Osszegek\\Osszegek.csproj": {}
   },
   "projects": {
-    "C:\\Apps\\University\\SZOP\\gyak1\\Osszegek\\Osszegek\\Osszegek.csproj": {
+    "C:\\xampp\\KSanyi\\Osszegek\\Osszegek\\Osszegek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Apps\\University\\SZOP\\gyak1\\Osszegek\\Osszegek\\Osszegek.csproj",
+        "projectUniqueName": "C:\\xampp\\KSanyi\\Osszegek\\Osszegek\\Osszegek.csproj",
         "projectName": "Osszegek",
-        "projectPath": "C:\\Apps\\University\\SZOP\\gyak1\\Osszegek\\Osszegek\\Osszegek.csproj",
-        "packagesPath": "C:\\Users\\dmnk8\\.nuget\\packages\\",
-        "outputPath": "C:\\Apps\\University\\SZOP\\gyak1\\Osszegek\\Osszegek\\obj\\",
+        "projectPath": "C:\\xampp\\KSanyi\\Osszegek\\Osszegek\\Osszegek.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\xampp\\KSanyi\\Osszegek\\Osszegek\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dmnk8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {}
         },
         "frameworks": {
           "net8.0": {
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
