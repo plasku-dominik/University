@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatekSzerver_2_feladat_1Kliens_KliensREsz", "MatekSzerver_2_feladat_1Kliens_KliensREsz\MatekSzerver_2_feladat_1Kliens_KliensREsz.csproj", "{C59B6F49-A718-437F-8760-EB56BBEE6603}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C59B6F49-A718-437F-8760-EB56BBEE6603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59B6F49-A718-437F-8760-EB56BBEE6603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59B6F49-A718-437F-8760-EB56BBEE6603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59B6F49-A718-437F-8760-EB56BBEE6603}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B0F50FF-6050-499C-BFBA-4B9F2F0BA5FB}
+	EndGlobalSection
+EndGlobal

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Apps\\University\\SZOP\\gyak1\\labdak\\",
+  "WorkspaceRootPath": "C:\\Users\\dmnk8\\Documents\\GitHub\\University\\SOP\\gyak1\\labdak\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56DFA509-0EEE-4507-A5F5-A0A897EA50A4}|labdak\\labdak.csproj|c:\\apps\\university\\szop\\gyak1\\labdak\\labdak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56DFA509-0EEE-4507-A5F5-A0A897EA50A4}|labdak\\labdak.csproj|c:\\users\\dmnk8\\documents\\github\\university\\sop\\gyak1\\labdak\\labdak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56DFA509-0EEE-4507-A5F5-A0A897EA50A4}|labdak\\labdak.csproj|solutionrelative:labdak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Apps\\University\\SZOP\\gyak1\\labdak\\labdak\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\dmnk8\\Documents\\GitHub\\University\\SOP\\gyak1\\labdak\\labdak\\Program.cs",
               "RelativeDocumentMoniker": "labdak\\Program.cs",
-              "ToolTip": "C:\\Apps\\University\\SZOP\\gyak1\\labdak\\labdak\\Program.cs",
+              "ToolTip": "C:\\Users\\dmnk8\\Documents\\GitHub\\University\\SOP\\gyak1\\labdak\\labdak\\Program.cs",
               "RelativeToolTip": "labdak\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T09:06:46.73Z",
               "EditorCaption": ""
