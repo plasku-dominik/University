@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\xampp\\KSanyi\\TermeloFogyasztoBlocking\\",
+  "WorkspaceRootPath": "C:\\Users\\dmnk8\\Documents\\GitHub\\University\\SOP\\gyak1\\TermeloFogyasztoBlocking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{279C6505-FC34-4312-AC36-83FAF7E06752}|TermeloFogyasztoBlocking\\TermeloFogyasztoBlocking.csproj|c:\\xampp\\ksanyi\\termelofogyasztoblocking\\termelofogyasztoblocking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{279C6505-FC34-4312-AC36-83FAF7E06752}|TermeloFogyasztoBlocking\\TermeloFogyasztoBlocking.csproj|c:\\users\\dmnk8\\documents\\github\\university\\sop\\gyak1\\termelofogyasztoblocking\\termelofogyasztoblocking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{279C6505-FC34-4312-AC36-83FAF7E06752}|TermeloFogyasztoBlocking\\TermeloFogyasztoBlocking.csproj|solutionrelative:termelofogyasztoblocking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\xampp\\KSanyi\\TermeloFogyasztoBlocking\\TermeloFogyasztoBlocking\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\dmnk8\\Documents\\GitHub\\University\\SOP\\gyak1\\TermeloFogyasztoBlocking\\TermeloFogyasztoBlocking\\Program.cs",
               "RelativeDocumentMoniker": "TermeloFogyasztoBlocking\\Program.cs",
-              "ToolTip": "C:\\xampp\\KSanyi\\TermeloFogyasztoBlocking\\TermeloFogyasztoBlocking\\Program.cs",
+              "ToolTip": "C:\\Users\\dmnk8\\Documents\\GitHub\\University\\SOP\\gyak1\\TermeloFogyasztoBlocking\\TermeloFogyasztoBlocking\\Program.cs",
               "RelativeToolTip": "TermeloFogyasztoBlocking\\Program.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAwwDIAAAABAAAA",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T08:43:44.304Z",
               "EditorCaption": ""

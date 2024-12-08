@@ -1,0 +1,28 @@
+C:\Users\Talha kamran\Documents\Visual Studio Projects\Service_Oriented_Programming\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\bin\Debug\net8.0\List_and_ThreadPool_Task1.exe
+C:\Users\Talha kamran\Documents\Visual Studio Projects\Service_Oriented_Programming\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\bin\Debug\net8.0\List_and_ThreadPool_Task1.deps.json
+C:\Users\Talha kamran\Documents\Visual Studio Projects\Service_Oriented_Programming\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\bin\Debug\net8.0\List_and_ThreadPool_Task1.runtimeconfig.json
+C:\Users\Talha kamran\Documents\Visual Studio Projects\Service_Oriented_Programming\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\bin\Debug\net8.0\List_and_ThreadPool_Task1.dll
+C:\Users\Talha kamran\Documents\Visual Studio Projects\Service_Oriented_Programming\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\bin\Debug\net8.0\List_and_ThreadPool_Task1.pdb
+C:\Users\Talha kamran\Documents\Visual Studio Projects\Service_Oriented_Programming\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\obj\Debug\net8.0\List_and_ThreadPool_Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha kamran\Documents\Visual Studio Projects\Service_Oriented_Programming\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\obj\Debug\net8.0\List_and_ThreadPool_Task1.AssemblyInfoInputs.cache
+C:\Users\Talha kamran\Documents\Visual Studio Projects\Service_Oriented_Programming\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\obj\Debug\net8.0\List_and_ThreadPool_Task1.AssemblyInfo.cs
+C:\Users\Talha kamran\Documents\Visual Studio Projects\Service_Oriented_Programming\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\obj\Debug\net8.0\List_and_ThreadPool_Task1.csproj.CoreCompileInputs.cache
+C:\Users\Talha kamran\Documents\Visual Studio Projects\Service_Oriented_Programming\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\obj\Debug\net8.0\List_and_ThreadPool_Task1.dll
+C:\Users\Talha kamran\Documents\Visual Studio Projects\Service_Oriented_Programming\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\obj\Debug\net8.0\refint\List_and_ThreadPool_Task1.dll
+C:\Users\Talha kamran\Documents\Visual Studio Projects\Service_Oriented_Programming\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\obj\Debug\net8.0\List_and_ThreadPool_Task1.pdb
+C:\Users\Talha kamran\Documents\Visual Studio Projects\Service_Oriented_Programming\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\obj\Debug\net8.0\List_and_ThreadPool_Task1.genruntimeconfig.cache
+C:\Users\Talha kamran\Documents\Visual Studio Projects\Service_Oriented_Programming\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\obj\Debug\net8.0\ref\List_and_ThreadPool_Task1.dll
+C:\!KSanyi\EKKE\SOP\ANGOLZH\GroupB\Z0EVIG_Exam\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\bin\Debug\net8.0\List_and_ThreadPool_Task1.exe
+C:\!KSanyi\EKKE\SOP\ANGOLZH\GroupB\Z0EVIG_Exam\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\bin\Debug\net8.0\List_and_ThreadPool_Task1.deps.json
+C:\!KSanyi\EKKE\SOP\ANGOLZH\GroupB\Z0EVIG_Exam\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\bin\Debug\net8.0\List_and_ThreadPool_Task1.runtimeconfig.json
+C:\!KSanyi\EKKE\SOP\ANGOLZH\GroupB\Z0EVIG_Exam\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\bin\Debug\net8.0\List_and_ThreadPool_Task1.dll
+C:\!KSanyi\EKKE\SOP\ANGOLZH\GroupB\Z0EVIG_Exam\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\bin\Debug\net8.0\List_and_ThreadPool_Task1.pdb
+C:\!KSanyi\EKKE\SOP\ANGOLZH\GroupB\Z0EVIG_Exam\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\obj\Debug\net8.0\List_and_ThreadPool_Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\!KSanyi\EKKE\SOP\ANGOLZH\GroupB\Z0EVIG_Exam\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\obj\Debug\net8.0\List_and_ThreadPool_Task1.AssemblyInfoInputs.cache
+C:\!KSanyi\EKKE\SOP\ANGOLZH\GroupB\Z0EVIG_Exam\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\obj\Debug\net8.0\List_and_ThreadPool_Task1.AssemblyInfo.cs
+C:\!KSanyi\EKKE\SOP\ANGOLZH\GroupB\Z0EVIG_Exam\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\obj\Debug\net8.0\List_and_ThreadPool_Task1.csproj.CoreCompileInputs.cache
+C:\!KSanyi\EKKE\SOP\ANGOLZH\GroupB\Z0EVIG_Exam\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\obj\Debug\net8.0\List_and_ThreadPool_Task1.dll
+C:\!KSanyi\EKKE\SOP\ANGOLZH\GroupB\Z0EVIG_Exam\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\obj\Debug\net8.0\refint\List_and_ThreadPool_Task1.dll
+C:\!KSanyi\EKKE\SOP\ANGOLZH\GroupB\Z0EVIG_Exam\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\obj\Debug\net8.0\List_and_ThreadPool_Task1.pdb
+C:\!KSanyi\EKKE\SOP\ANGOLZH\GroupB\Z0EVIG_Exam\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\obj\Debug\net8.0\List_and_ThreadPool_Task1.genruntimeconfig.cache
+C:\!KSanyi\EKKE\SOP\ANGOLZH\GroupB\Z0EVIG_Exam\List_and_ThreadPool_Task1\List_and_ThreadPool_Task1\obj\Debug\net8.0\ref\List_and_ThreadPool_Task1.dll
