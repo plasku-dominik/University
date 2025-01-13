@@ -1,0 +1,125 @@
+openapi: 3.0.0
+info:
+  title: Music API
+  description: API a zenék kezelésére
+  version: 1.0.0
+servers:
+  - url: 'http://localhost:3000'
+paths:
+  /music:
+    get:
+      summary: Minden zene lekérdezése
+      description: Az összes zene adatainak lekérdezése az adatbázisból.
+      responses:
+        '200':
+          description: Sikeres válasz, az összes zene visszaadása
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    id:
+                      type: integer
+                      description: A zene egyedi azonosítója
+                    title:
+                      type: string
+                      description: A zene címe
+                    artist:
+                      type: string
+                      description: A zene előadója
+                    genre:
+                      type: string
+                      description: A zene műfaja
+                    duration:
+                      type: string
+                      description: A zene hossza (pl. 3:30)
+                    release_date:
+                      type: string
+                      description: A zene kiadási dátuma
+                      format: date
+                    image_url:
+                      type: string
+                      description: A zene borítójához tartozó kép URL-je
+        '500':
+          description: Hiba történt a lekérdezés során
+
+  /music/{id}:
+    get:
+      summary: Zene lekérdezése az id alapján
+      description: A zene adatainak lekérdezése egyedi id alapján.
+      parameters:
+        - in: path
+          name: id
+          required: true
+          description: A keresett zene egyedi azonosítója.
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Sikeres válasz, a kért zene adatai
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  id:
+                    type: integer
+                    description: A zene egyedi azonosítója
+                  title:
+                    type: string
+                    description: A zene címe
+                  artist:
+                    type: string
+                    description: A zene előadója
+                  genre:
+                    type: string
+                    description: A zene műfaja
+                  duration:
+                    type: string
+                    description: A zene hossza (pl. 3:30)
+                  release_date:
+                    type: string
+                    description: A zene kiadási dátuma
+                    format: date
+                  image_url:
+                    type: string
+                    description: A zene borítójához tartozó kép URL-je
+        '404':
+          description: A keresett zene nem található
+        '500':
+          description: Hiba történt a lekérdezés során
+
+  /newepisodes:
+    get:
+      summary: Legújabb epizódok lekérdezése
+      description: Az összes legújabb epizód adatainak lekérdezése.
+      responses:
+        '200':
+          description: Sikeres válasz, a legújabb epizódok listája
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    episode_id:
+                      type: integer
+                      description: Az epizód egyedi azonosítója
+                    title:
+                      type: string
+                      description: Az epizód címe
+                    description:
+                      type: string
+                      description: Az epizód leírása
+                    release_date:
+                      type: string
+                      description: Az epizód kiadási dátuma
+                      format: date
+                    genre:
+                      type: string
+                      description: Az epizód műfaja
+        '500':
+          description: Hiba történt az epizódok lekérdezése során
