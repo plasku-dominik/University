@@ -169,7 +169,7 @@ app.delete('/music/:id', (req, res) => {
 });
 
 app.get('/newepisodes', (req, res) => {
-  const query = "SELECT * FROM music WHERE genre = 'podcast' LIMIT 10";
+  const query = "SELECT * FROM music WHERE genre = 'podcast' ORDER BY release_date DESC LIMIT 10";
   db.query(query, (err, results) => {
     if (err) {
       console.error('Error fetching data:', err);
